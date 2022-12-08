@@ -194,5 +194,12 @@ p{
     #title{
         text-align: center;
     }
-  
+}
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .mockupdog{
+        width: 60%;
+    }
+    .big-heading{
+        font-size: 2rem;
+    }
 }
